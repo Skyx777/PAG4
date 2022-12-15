@@ -1,0 +1,50 @@
+
+
+body{
+    background-image: url(https://i.pinimg.com/originals/af/1f/ca/af1fca18c9dc17b4c742a0b9e8f4a681.jpg);
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#instr{
+
+   font-size: 30px;
+   color: rgb(255, 255, 255);
+   text-align: center;
+   margin-left: 20px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#cripto{
+    text-align: left;
+    font-size: 29px;
+    color: rgb(255, 255, 255);
+     border: dashed 3px rgb(17, 0, 169) ;
+     
+    
+}
+#quebra-linha{
+text-align: center;
+color: linen;
+
+
+}
+#w{
+    font-size: 30px;
+      color: rgb(255, 0, 0);
+}
+
+#chave{
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    border: dashed 4px darkviolet;
+
+}
+#instr2{
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
